@@ -74,5 +74,5 @@ Repo Link:
 
 ## 🙌 Credits
 
-Built with ❤️ by **Yasvanth Rajan**  
+Built  by **Yasvanth Rajan**  
 Thanks to the **DevOps Internship Team** for the hands-on opportunity!
